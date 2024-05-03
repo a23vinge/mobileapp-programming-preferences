@@ -24,6 +24,14 @@
 
     </com.google.android.material.appbar.AppBarLayout>
 
+
+    <Button
+        android:id="@+id/Newbtn"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:text="Lé Butt"
+      />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
